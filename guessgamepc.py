@@ -1,5 +1,4 @@
 import random
-import time
 
 print("--WELCOME TO GUESSING GAME--")
 print("[1] Start The Game")
